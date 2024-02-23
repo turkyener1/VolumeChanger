@@ -1,1 +1,1 @@
-# VolumeChanger
+Kodu compile ettiğimizde kameramız açılıyor ve bu kamera bizim elimizi algılıyor. Elimizi yumruk yapıp sıktığımızda bilgisayarın ses seviyesini düşürürken, elimizi açtığımızda da ses seviyesini yükseltmeye başlıyor
